@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Low hanging fruit",
+        "file": "001-low_hanging_fruit.png"
+    },
+    {
+        "name": "Piece of cake",
+        "file": "002-piece_of_cake.png"
+    },
+    {
+        "name": "It ain't rocket science",
+        "file": "003-it_aint_rocket_science.png"
+    },
+    {
+        "name": "Ornitorinco",
+        "file": "005-ornitorinco.png"
+    },
+    {
+        "name": "And arm and a leg",
+        "file": "008-and_arm_and_a_leg.png"
+    },
+    {
+        "name": "Just sequeaking by",
+        "file": "013-just_squeaking_by.png"
+    },
+    {
+        "name": "Don't put all your eggs in one basket",
+        "file": "020-dont_put_all_your_eggs_in_one_basket.png"
+    },
+    {
+        "name": "Meterse en un berenjenal",
+        "file": "040-meterse_en_un_berenjenal.png"
+    },
+    {
+        "name": "Monster task",
+        "file": "100-monster_task.png"
+    },
+    {
+        "name": "Here be dragons",
+        "file": "unknown-here_be_dragons.png"
+    },
+    {
+        "name": "Marrón",
+        "file": "marron.png"
+    },
+    {
+        "name": "Yak shaving",
+        "file": "yak_shaving.png"
+    },
+    {
+        "name": "Coffee break",
+        "file": "coffee_break.png"
+    }
+]

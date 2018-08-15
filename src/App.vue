@@ -1,29 +1,29 @@
 <template>
     <div id="app">
-        <img alt="Vue logo" src="./assets/logo.png">
-        <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
+        <PlanningPokerDeck />
     </div>
 </template>
 
 <script lang="ts">
 import Vue from 'vue';
 
-import HelloWorld from '@/components/HelloWorld.vue';
+import PlanningPokerDeck from '@/components/PlanningPokerDeck.vue';
 
 export default Vue.extend({
     components: {
-        HelloWorld,
+        PlanningPokerDeck,
     },
 });
 </script>
 
 <style lang="scss">
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+    body {
+        margin: 0;
+    }
+    #app {
+        height: 100vh;
+        width: 100vw;
+        overflow: hidden;
+        background: #2222ee;
+    }
 </style>
