@@ -15,9 +15,9 @@ export default {
 
 <style lang="scss">
     .planning-poker-card {
-        height: 100vh;
+        height: auto;
+        max-height: 100%;
         max-width: 90vw;
-        max-height: 90vh;
         border-radius: 1rem;
     }
 </style>

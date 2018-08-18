@@ -1,5 +1,5 @@
 declare module '@/assets/cards.json' {
-    interface Card {
+    export interface Card {
         name: string;
         file: string;
         url?: string;
