@@ -123,6 +123,9 @@ export default Vue.extend({
             bottom: 0;
             margin: 0;
             padding: $buttons-padding;
+            outline: none;
+            user-select: none;
+            -webkittap-highlight-color:transparent;
 
             &:hover {
                 background: $color-overlay;

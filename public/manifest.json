@@ -1,20 +1,23 @@
 {
+  "manifest_version": 2,
+  "version": "1.0.0",
   "name": "Planning Poker",
   "short_name": "Planning Poker",
   "icons": [
     {
-      "src": "/img/icons/android-chrome-192x192.png",
+      "src": "img/icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/img/icons/android-chrome-512x512.png",
+      "src": "img/icons/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
-  "start_url": "/index.html",
+  "start_url": "/planning-poker/",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#42a5f5",
   "theme_color": "#42a5f5"
 }
