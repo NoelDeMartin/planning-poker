@@ -8,4 +8,9 @@ module.exports = {
             },
         },
     },
+    pwa: {
+        name: 'Planning Poker',
+        themeColor: '#42a5f5',
+        msTileColor: '#42a5f5',
+    },
 };

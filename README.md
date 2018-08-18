@@ -1,4 +1,4 @@
-# Planning Poker
+# <img src="icon.svg" width="32px"/> Planning Poker
 
 Planning Poker Application built using [Vue](https://vuejs.org/), [Swiper](https://idangero.us/swiper) and cards designed by [Redbooth](https://github.com/redbooth/Scrum-poker-cards).
 
